@@ -1,6 +1,9 @@
 # GifsAppAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5 and the api [Giphy](https://giphy.com/).
+
+## Preview the project 
+<a href= "https://sebastiangamboablanco.github.io/Gifs_Angular/" a> Live preview
 
 ## Development server
 
